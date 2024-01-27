@@ -1,0 +1,58 @@
+﻿ID;nom;places_tot;lat;long;zone
+urn:ngsi-ld:station:001;Rue Jules Ferry - Gare Saint-Roch;12;43,605366;3,881346;Centre
+urn:ngsi-ld:station:002;Comédie;20;43,608148;3,878778;Centre
+urn:ngsi-ld:station:004;Hôtel de Ville;16;43,599088;3,894866;Périphérie
+urn:ngsi-ld:station:005;Corum;12;43,613989;3,8816;Centre
+urn:ngsi-ld:station:006;Place Albert 1er - St Charles;27;43,616768;3,873375;Centre
+urn:ngsi-ld:station:007;Foch;8;43,610989;3,873345;Centre
+urn:ngsi-ld:station:008;Halles Castellane;12;43,609935;3,877208;Centre
+urn:ngsi-ld:station:009;Observatoire;8;43,606301;3,87724;Centre
+urn:ngsi-ld:station:010;Rondelet;16;43,603038;3,875796;Centre
+urn:ngsi-ld:station:011;Plan Cabanes;12;43,608491;3,868389;Centre
+urn:ngsi-ld:station:012;Boutonnet;12;43,622629;3,868375;Centre
+urn:ngsi-ld:station:013;Emile Combes;8;43,616742;3,87998;Centre
+urn:ngsi-ld:station:014;Beaux-Arts;16;43,616698;3,884981;Centre
+urn:ngsi-ld:station:015;Les Aubes;8;43,618692;3,893844;Centre
+urn:ngsi-ld:station:016;Antigone centre;16;43,607942;3,890634;Centre
+urn:ngsi-ld:station:017;Médiathèque Emile Zola;16;43,608218;3,89314;Centre
+urn:ngsi-ld:station:018;Nombre d Or;16;43,607859;3,886644;Centre
+urn:ngsi-ld:station:019;Louis Blanc;16;43,614642;3,877648;Centre
+urn:ngsi-ld:station:020;Gambetta;8;43,607106;3,870693;Centre
+urn:ngsi-ld:station:021;Port Marianne;16;43,60032;3,89851;Périphérie
+urn:ngsi-ld:station:023;Les Arceaux;16;43,611991;3,867157;Centre
+urn:ngsi-ld:station:024;Cité Mion;8;43,601143;3,884373;Périphérie
+urn:ngsi-ld:station:025;Nouveau Saint-Roch;8;43,599817;3,875757;Centre
+urn:ngsi-ld:station:026;Renouvier;8;43,603553;3,867884;Centre
+urn:ngsi-ld:station:027;Odysseum;8;43,603727;3,918979;Périphérie
+urn:ngsi-ld:station:028;Saint-Denis;8;43,605021;3,875065;Centre
+urn:ngsi-ld:station:029;Richter;16;43,603424;3,899263;Périphérie
+urn:ngsi-ld:station:030;Charles Flahault;8;43,618762;3,865971;Centre
+urn:ngsi-ld:station:031;Voltaire;8;43,603767;3,888659;Centre
+urn:ngsi-ld:station:032;Prés d Arènes;8;43,59048;3,884611;Périphérie
+urn:ngsi-ld:station:033;Garcia Lorca;8;43,590757;3,890616;Périphérie
+urn:ngsi-ld:station:034;Vert Bois;16;43,63542996;3,871179397;Périphérie
+urn:ngsi-ld:station:035;Malbosc;8;43,633679;3,832861;Périphérie
+urn:ngsi-ld:station:036;Occitanie;32;43,634242;3,849128;Périphérie
+urn:ngsi-ld:station:037;FacdesSciences;24;43,631018;3,860697;Périphérie
+urn:ngsi-ld:station:038;Fac de Lettres;12;43,627799;3,869447;Périphérie
+urn:ngsi-ld:station:039;Aiguelongue;8;43,626163;3,882492;Centre
+urn:ngsi-ld:station:040;Jeu de Mail des Abbés;8;43,619701;3,883831;Centre
+urn:ngsi-ld:station:041;Euromédecine;8;43,639119;3,828199;Périphérie
+urn:ngsi-ld:station:042;Marie Caizergues;8;43,619871;3,873812;Centre
+urn:ngsi-ld:station:043;Sabines;8;43,584211;3,860031;Périphérie
+urn:ngsi-ld:station:044;Celleneuve;8;43,61467;3,832624;Périphérie
+urn:ngsi-ld:station:045;Jardin de la Lironde;8;43,60585;3,911576;Périphérie
+urn:ngsi-ld:station:046;Père Soulas;8;43,621983;3,855603;Périphérie
+urn:ngsi-ld:station:047;Place Viala;8;43,616812;3,855075;Périphérie
+urn:ngsi-ld:station:048;Hôtel du Département;8;43,621682;3,83477;Périphérie
+urn:ngsi-ld:station:049;Tonnelles;8;43,615155;3,839466;Périphérie
+urn:ngsi-ld:station:050;Parvis Jules Ferry - Gare Saint-Roch;8;43,603889;3,879362;Centre
+urn:ngsi-ld:station:051;Pont de Lattes - Gare Saint-Roch;12;43,606036;3,882393;Centre
+urn:ngsi-ld:station:053;Deux Ponts - Gare Saint-Roch;8;43,604319;3,880916;Centre
+urn:ngsi-ld:station:054;Providence - Ovalie;8;43,588239;3,853421;Périphérie
+urn:ngsi-ld:station:055;Pérols Etang de l Or;68;43,558351;3,963412;Périphérie
+urn:ngsi-ld:station:056;Albert 1er - Cathédrale;12;43,614005;3,873218;Centre
+urn:ngsi-ld:station:057;Saint-Guilhem - Courreau;8;43,608996;3,872752;Centre
+urn:ngsi-ld:station:059;Sud De France;8;43,59562;3,9235;Périphérie
+urn:ngsi-ld:station:060;Comedie Baudin;8;43,608717;3,880787;Centre
+urn:ngsi-ld:station:061;Jean de Beins;16;43,609857;3,883884;Centre

@@ -1,0 +1,22 @@
+﻿Index;Code;nom;nb_places;lat;long;zone
+0;urn:ngsi-ld:parking:001;Antigone;239;43,60871606;3,88881893;Centre
+1;urn:ngsi-ld:parking:003;Comedie;735;43,60856092;3,87976196;Centre
+2;urn:ngsi-ld:parking:004;Corum;310;43,61388821;3,88225773;Centre
+3;urn:ngsi-ld:parking:005;Europa;591;43,60784971;3,89253074;Centre
+4;urn:ngsi-ld:parking:006;Foch;646;43,61074912;3,87657084;Centre
+5;urn:ngsi-ld:parking:007;Gambetta;452;43,60695138;3,87137436;Centre
+6;urn:ngsi-ld:parking:008;Gare;656;43,604024;3,87891;Centre
+7;urn:ngsi-ld:parking:009;Triangle;434;43,60923384;3,88184418;Centre
+8;urn:ngsi-ld:parking:010;Pitot;587;43,61224494;3,87019117;Centre
+9;urn:ngsi-ld:parking:011;Circe;1200;43,60495377;3,9178495;Périphérie
+10;urn:ngsi-ld:parking:012;Garcia Lorca;395;43,59098509;3,8907158;Périphérie
+11;urn:ngsi-ld:parking:013;Mosson;350;43,61623716;3,81966554;Périphérie
+12;urn:ngsi-ld:parking:014;Sabines;220;43,58383263;3,8602246;Périphérie
+13;urn:ngsi-ld:parking:015;Sablassou;372;43,63419194;3,92229536;Périphérie
+14;urn:ngsi-ld:parking:016;Saint Jean Le Sec;285;43,57082225;3,8379312;Périphérie
+15;urn:ngsi-ld:parking:017;Euromedecine;255;43,63895359;3,82772365;Périphérie
+16;urn:ngsi-ld:parking:018;Occitanie;615;43,63456232;3,84859796;Périphérie
+17;urn:ngsi-ld:parking:019;Vicarello;75;43,63286;3,898411;Périphérie
+18;urn:ngsi-ld:parking:022;Charles de Gaulle;260;43,6285421;3,8977621;Périphérie
+19;urn:ngsi-ld:parking:024;Polygone;1911;43,607697;3,88515;Centre
+20;urn:ngsi-ld:parking:002;Arc de Triomphe;440;43,61100267;3,8732007;Centre

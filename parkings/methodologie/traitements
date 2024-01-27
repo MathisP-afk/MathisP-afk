@@ -1,0 +1,68 @@
+bases parkings : 
+  - nombre d'enregistrements attendus : 365 jours x 24 heures x 60 mn / 5 mn (temps de réponse entre 2 enregistrements) = 105.120 enregistrements
+  - les limites d'extraction sont de 10.000 lignes par extraction, il faut donc au moins 11 extractions pour récupérer une base complète
+  - le plus simple c'est de générer une boucle avec une extraction par mois, avec un cumul dans une même variable (par data.update())
+  - début historique : 2023-01-04T10:50 (toutes les données commencent le 4 janvier à 10h50)
+  - vérifier les dates selon nbr de jours pour chaque mois (28, 30, 31 jours)
+
+structure des bases parkings :  5 (champs)
+attrName, str, 19
+entityId, str, 23
+entityType, str, 16
+index, list, 8526
+values, list, 8526
+
+traitements vérification des importations de données : 
+
+urn:ngsi-ld:parking:001 Antigone nb jours base : 251
+min-max date : 2023-01-04T10:50:51.000+00:00 2023-12-30T23:56:53.000+00:00
+urn:ngsi-ld:parking:003 Comedie nb jours base : 189
+min-max date : 2023-02-23T16:11:29.000+00:00 2023-12-30T23:55:05.000+00:00
+urn:ngsi-ld:parking:004 Corum nb jours base : 253
+min-max date : 2023-01-04T10:50:53.000+00:00 2023-12-30T23:59:59.000+00:00
+urn:ngsi-ld:parking:005 Europa nb jours base : 253
+min-max date : 2023-01-04T10:50:50.000+00:00 2023-12-30T23:56:50.000+00:00
+urn:ngsi-ld:parking:006 Foch nb jours base : 250
+min-max date : 2023-01-04T10:49:54.000+00:00 2023-12-30T23:59:50.000+00:00
+urn:ngsi-ld:parking:007 Gambetta nb jours base : 254
+min-max date : 2023-01-04T10:50:51.000+00:00 2023-12-30T23:55:11.000+00:00
+urn:ngsi-ld:parking:008 Gare nb jours base : 162
+min-max date : 2023-01-04T10:52:01.000+00:00 2023-12-30T23:58:01.000+00:00
+urn:ngsi-ld:parking:009 Triangle nb jours base : 252
+min-max date : 2023-01-04T10:52:09.926+00:00 2023-12-30T23:59:09.929+00:00
+urn:ngsi-ld:parking:010 Pitot nb jours base : 253
+min-max date : 2023-01-04T10:52:10.100+00:00 2023-12-30T23:58:10.056+00:00
+urn:ngsi-ld:parking:011 Circe nb jours base : 253
+min-max date : 2023-01-04T10:52:51.000+00:00 2023-12-30T23:57:39.000+00:00
+urn:ngsi-ld:parking:012 Garcia Lorca nb jours base : 251
+min-max date : 2023-01-04T10:48:54.000+00:00 2023-12-30T23:58:57.000+00:00
+urn:ngsi-ld:parking:013 Mosson nb jours base : 253
+min-max date : 2023-01-04T10:48:11.000+00:00 2023-12-30T23:58:10.000+00:00
+urn:ngsi-ld:parking:014 Sabines nb jours base : 253
+min-max date : 2023-01-04T10:51:50.000+00:00 2023-12-30T23:56:50.000+00:00
+urn:ngsi-ld:parking:015 Sablassou nb jours base : 253
+min-max date : 2023-01-04T10:49:59.000+00:00 2023-12-30T23:59:54.000+00:00
+urn:ngsi-ld:parking:016 Saint Jean Le Sec nb jours base : 253
+min-max date : 2023-01-04T10:49:56.000+00:00 2023-12-30T23:59:54.000+00:00
+urn:ngsi-ld:parking:017 Euromedecine nb jours base : 253
+min-max date : 2023-01-04T10:50:57.000+00:00 2023-12-30T23:55:56.000+00:00
+urn:ngsi-ld:parking:018 Occitanie nb jours base : 253
+min-max date : 2023-01-04T10:49:53.000+00:00 2023-12-30T23:59:59.000+00:00
+urn:ngsi-ld:parking:019 Vicarello nb jours base : 251
+min-max date : 2023-01-04T10:47:57.000+00:00 2023-12-30T23:57:51.000+00:00
+urn:ngsi-ld:parking:022 Charles de Gaulle nb jours base : 253
+min-max date : 2023-01-04T10:49:59.000+00:00 2023-12-30T23:59:54.000+00:00
+urn:ngsi-ld:parking:024 Polygone nb jours base : 253
+min-max date : 2023-01-04T10:52:58.261+00:00 2023-12-30T23:58:28.811+00:00
+urn:ngsi-ld:parking:002 Arc de Triomphe nb jours base : 245
+min-max date : 2023-01-07T03:19:57.000+00:00 2023-12-30T21:59:54.000+00:00
+
+  
+bases velo : 
+  - nombre d'enregistrements attendus : 365 jours x 24 heures x 60 mn / 1 mn (temps de réponse entre 2 enregistrements) = 525.600 enregistrements
+  - les limites d'extraction sont de 10.000 lignes par extraction, il faut donc au moins 53 extractions pour récupérer une base complète
+  - le plus simple c'est de générer une boucle avec une extraction par semaine, avec un cumul dans une même variable (par data.update())
+  - début historique : 2023-01-04T10:50 (toutes les données commencent le 4 janvier à 10h50)
+  - vérifier les dates selon nbr de jours pour chaque mois (28, 30, 31 jours)
+
+

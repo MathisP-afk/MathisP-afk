@@ -1,0 +1,2795 @@
+[
+    {
+        "id": "urn:ngsi-ld:station:001",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Rue Jules Ferry - Gare Saint-Roch"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 9,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.881346,
+                    43.605366
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:002",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Com\u00e9die"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 15,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.878778,
+                    43.608148
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 20,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:004",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "H\u00f4tel de Ville"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 10,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.894866,
+                    43.599088
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:005",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Corum"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.8816,
+                    43.613989
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:006",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Place Albert 1er - St Charles"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 11,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.873375,
+                    43.616768
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 27,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:007",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Foch"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.873345,
+                    43.610989
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:008",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Halles Castellane"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.877208,
+                    43.609935
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:009",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Observatoire"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.87724,
+                    43.606301
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:010",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Rondelet"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.875796,
+                    43.603038
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:011",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Plan Cabanes"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 7,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.868389,
+                    43.608491
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:012",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Boutonnet"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 9,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.868375,
+                    43.622629
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:013",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Emile Combes"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.87998,
+                    43.616742
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:014",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Beaux-Arts"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 9,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 7,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.884981,
+                    43.616698
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:015",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Les Aubes"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.893844,
+                    43.618692
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:016",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Antigone centre"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 10,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.890634,
+                    43.607942
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:017",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "M\u00e9diath\u00e8que Emile Zola"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 10,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.89314,
+                    43.608218
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:018",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Nombre d Or"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 10,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.886644,
+                    43.607859
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:019",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Louis Blanc"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 15,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 1,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.877648,
+                    43.614642
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:020",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Gambetta"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.870693,
+                    43.607106
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:021",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Port Marianne"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.89851,
+                    43.60032
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:023",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Les Arceaux"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.867157,
+                    43.611991
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:024",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Cit\u00e9 Mion"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.884373,
+                    43.601143
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:025",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Nouveau Saint-Roch"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.875757,
+                    43.599817
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:026",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Renouvier"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 0,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.867884,
+                    43.603553
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:027",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Odysseum"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 7,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 1,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.918979,
+                    43.603727
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:028",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Saint-Denis"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.875065,
+                    43.605021
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:029",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Richter"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.899263,
+                    43.603424
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:030",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Charles Flahault"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.865971,
+                    43.618762
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:031",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Voltaire"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.888659,
+                    43.603767
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:032",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Pr\u00e9s d Ar\u00e8nes"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.884611,
+                    43.59048
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:033",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Garcia Lorca"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.890616,
+                    43.590757
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:034",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Vert Bois"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 1,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 15,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.871179397,
+                    43.635429956
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:035",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Malbosc"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.832861,
+                    43.633679
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:036",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Occitanie"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 23,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 9,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.849128,
+                    43.634242
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 32,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:037",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "FacdesSciences"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 0,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2023-09-04T15:18:04.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 24,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.860697,
+                    43.631018
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 24,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:038",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Fac de Lettres"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 7,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.869447,
+                    43.627799
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:039",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Aiguelongue"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 0,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.882492,
+                    43.626163
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:040",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Jeu de Mail des Abb\u00e9s"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.883831,
+                    43.619701
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:041",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Eurom\u00e9decine"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.828199,
+                    43.639119
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:042",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Marie Caizergues"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.873812,
+                    43.619871
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:043",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Sabines"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.860031,
+                    43.584211
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:044",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Celleneuve"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.832624,
+                    43.61467
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:045",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Jardin de la Lironde"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.911576,
+                    43.60585
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:046",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "P\u00e8re Soulas"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.855603,
+                    43.621983
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:047",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Place Viala"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 0,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.855075,
+                    43.616812
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:048",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "H\u00f4tel du D\u00e9partement"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 0,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.83477,
+                    43.621682
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:049",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Tonnelles"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 1,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 7,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.839466,
+                    43.615155
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:050",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Parvis Jules Ferry - Gare Saint-Roch"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.879362,
+                    43.603889
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:051",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Pont de Lattes - Gare Saint-Roch"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 10,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.882393,
+                    43.606036
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:053",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Deux Ponts - Gare Saint-Roch"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 4,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.880916,
+                    43.604319
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:054",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Providence - Ovalie"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.853421,
+                    43.588239
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:055",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "P\u00e9rols Etang de l Or"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 44,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 24,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.963412,
+                    43.558351
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 68,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:056",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Albert 1er - Cath\u00e9drale"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 7,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.873218,
+                    43.614005
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:057",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Saint-Guilhem - Courreau"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 2,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 6,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.872752,
+                    43.608996
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:059",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Sud De France"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 5,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.9235,
+                    43.59562
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:060",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Comedie Baudin"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 1,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 7,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.880787,
+                    43.608717
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 8,
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:station:061",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "FR",
+                "addressLocality": "Montpellier",
+                "streetAddress": "Jean de Beins"
+            },
+            "metadata": {}
+        },
+        "availableBikeNumber": {
+            "type": "Number",
+            "value": 3,
+            "metadata": {
+                "timestamp": {
+                    "type": "DateTime",
+                    "value": "2024-01-15T16:50:06.000Z"
+                }
+            }
+        },
+        "freeSlotNumber": {
+            "type": "Number",
+            "value": 13,
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.883884,
+                    43.609857
+                ]
+            },
+            "metadata": {}
+        },
+        "status": {
+            "type": "Text",
+            "value": "working",
+            "metadata": {}
+        },
+        "totalSlotNumber": {
+            "type": "Number",
+            "value": 16,
+            "metadata": {}
+        }
+    }
+]

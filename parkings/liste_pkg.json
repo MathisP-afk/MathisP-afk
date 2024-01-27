@@ -1,0 +1,3863 @@
+[
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_ARCTRI",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue Foch",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "10",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.611002669999998",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "5",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.873200750000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Arc de Triomphe",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "451",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "438",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "9375",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_TRIANG",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue Foch",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.609233840000002",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.881844180000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Triangle",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Indigo",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "594",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "436",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "158",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "32022964405241",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_PITOT",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue du Carr\u00e9 du Roi",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "10",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.612244939999997",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "3",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.870191170000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "256",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Pitot",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "771",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "553",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "208",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "18000",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_ARCEAU",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "place Max Rouquette",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "5",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.611716469999998",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "1",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.867490670000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Arceaux",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "208",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "203",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "5950",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_GAMBET",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "cours Gambetta",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "10",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.606951379999998",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "1",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.871374360000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Gambetta",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "482",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "472",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "10950",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_FOCHPR",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "Place des Martyrs de la Resistance",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "9",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.610749120000001",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "5",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.876570840000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Foch Pr\u00e9fecture",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "685",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "385",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "291",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "10750",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_COMEDI",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "place de la Comedie",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "17",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.608560920000002",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "4",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.879761960000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "185",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Com\u00e9die",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "824",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "787",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "20",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "19800",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_POLYGO",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue des Pertuisanes",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "20",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.608370960000002",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "4",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.884765390000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Polygone",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "1942",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "1922",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "49325",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_ANTIGO",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "boulevard d Antigone",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "6",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.608716059999999",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "2",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.888818930000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "185",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Antigone",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "248",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "242",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "4000",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_EUROPA",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "Rue Pos\u00e9idon",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "10",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.607849710000004",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "2",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.892530740000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "250",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Europa",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "600",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "590",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "5560",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_CORUM",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue du Faubourg de Nimes",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "10",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.613888209999999",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "3",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.882257730000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "185",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Corum",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "483",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "473",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_SAINTRO",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue du Grand Saint Jean",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "12",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.603291489999997",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "11",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.878550720000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Saint Roch",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "805",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "711",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "94",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_PEYROU",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue Paladihle",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.611297000000000",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.870383780000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Peyrou",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_HDV",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue Germaine Tillion",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "15",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.599231000000003",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "4",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.895853270000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "H\u00f4tel de ville",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ville de Montpellier",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "682",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "452",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "232",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340172202058",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_CIRCE",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue Georges Melies",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.604953770000002",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.917849500000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Circ\u00e9 Odysseum",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "1200",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34120_JACOU",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue Hel\u00e8ne Maingain",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34120",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.654598700000001",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.912884750000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Jacou",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "80",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Proximit\u00e9",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34057_POMPID",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue du Mar\u00e9chal de Lattre de Tassigny",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34057",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.649339200000000",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.921084190000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Georges Pompidou",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "260",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Proximit\u00e9",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34057_VIADOM",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue Olympie",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34090",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.646658010000003",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.929538080000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Via Domitia",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "60",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Proximit\u00e9",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34057_SABLAS",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "chemin du Pech Saint Peyre",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34057",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.634191940000001",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.922295360000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Notre Dame de Sablassou",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "350",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Proximit\u00e9",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34057_DEGAUL",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue du Prado",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34057",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.628542119999999",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.897762100000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Charles de Gaulle",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "50",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Proximit\u00e9",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_LORCA",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue de Palavas",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.590985089999997",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.890715800000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Garcia Lorca",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "400",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_SABINE",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue du Colonel Pavelet",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.583832630000003",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.860224600000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Sabines",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "350",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_MOSSON",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "route de Lod\u00e8ve",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.616237159999997",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.819665540000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "210",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Mosson",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "450",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_EUROME",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue de Chambert",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.638953590000000",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.827723650000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Eurom\u00e9decine",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "350",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_OCCITA",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue du Doyen Giraud",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.634562320000001",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.848597960000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Occitanie",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "620",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34123_JUVIGN",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "chemin des Caunelles",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34123",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.617403740000000",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.809621860000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Juvignac",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "180",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34270_VEDAS",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue de Libria",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34270",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.574962790000001",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.830585520000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "195",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Saint-Jean-de-V\u00e9das Centre",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "80",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Proximit\u00e9",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34270_LESEC",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue de Libria",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34270",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.570822249999999",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.837931200000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "220",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Saint-Jean-le-Sec",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "282",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34129_LATTES",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue de l Europe",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34129",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.570809879999999",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.904817620000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Lattes",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "50",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34198_PARCEX",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue de la foire",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34198",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.572910210000003",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.945678520000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Parc expo",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "400",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34198_PEROLS",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue Georges Barnoyer",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Public",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34198",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.565378570000000",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.957355560000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "P\u00e9rols centre",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "70",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "24340001700022",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Parc relais",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_DECATH",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "boulevard T\u00e9l\u00e9maque",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.606185590000003",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.923800380000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "220",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "D\u00e9cathlon",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "D\u00e9cathlon",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "744",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "50056940503239",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Commercial",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_IKEA",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "boulevard T\u00e9l\u00e9maque",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.604609619999998",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.925582560000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "250",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Ik\u00e9a",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Ik\u00e9a",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "1300",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "35174572400200",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Commercial",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_CASINO",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "boulevard T\u00e9l\u00e9maque",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.603155600000001",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.922104130000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "210",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "G\u00e9ant Casino",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "G\u00e9ant Casino",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "2050",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "42826802302958",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Commercial",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_MARENO",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "boulevard P\u00e9n\u00e9lope",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.602370800000003",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.919015140000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Mare Nostrum",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Mare Nostrum",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "843",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "78866559400016",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Commercial",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_VEGAPO",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "boulevard P\u00e9n\u00e9lope",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.602896510000001",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.914773710000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "NC",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "V\u00e9gapolis",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "V\u00e9gapolis",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "172",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "75031007000016",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Commercial",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_MULTIP",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue Thomas Jefferson",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.604152429999999",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.914110760000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "200",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Multiplexe",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Gaumont",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "650",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "enclos_en_surface",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "43839104700034",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Commercial",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34172_MANTIL",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "avenue de la mer-Raymond Dugrand",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "20",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "Priv\u00e9",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34172",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "43.598772959999998",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "3",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "3.902399940000000",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "La Mantilla",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "SERM",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "738",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "ouvrage",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "441",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "297",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "53826912700014",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "Centre-ville",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "0",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:ParkingSpace:34057_VICCAR",
+        "type": "ParkingSpace",
+        "address": {
+            "type": "Text",
+            "value": "rue de la Crouzette",
+            "metadata": {}
+        },
+        "disabledParkingNumber": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "domaniality": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "insee": {
+            "type": "Text",
+            "value": "34057",
+            "metadata": {}
+        },
+        "isFree": {
+            "type": "Text",
+            "value": "false",
+            "metadata": {}
+        },
+        "latitude": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "levelNumber": {
+            "type": "Text",
+            "value": "1",
+            "metadata": {}
+        },
+        "longitude": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "maxHeight": {
+            "type": "Text",
+            "value": "190",
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Viccarello",
+            "metadata": {}
+        },
+        "owner": {
+            "type": "Text",
+            "value": "Castelnau le Lez",
+            "metadata": {}
+        },
+        "parkingSpaceNumber": {
+            "type": "Text",
+            "value": "64",
+            "metadata": {}
+        },
+        "parkingType": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "publicSpaces": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "remainingSpaces": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "siretNumber": {
+            "type": "Text",
+            "value": "21340057500014",
+            "metadata": {}
+        },
+        "typeOfUse": {
+            "type": "Text",
+            "value": "tous",
+            "metadata": {}
+        },
+        "typology": {
+            "type": "Text",
+            "value": "_",
+            "metadata": {}
+        },
+        "usableSurfaceArea": {
+            "type": "Text",
+            "value": "1350",
+            "metadata": {}
+        }
+    }
+]
