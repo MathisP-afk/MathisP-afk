@@ -11,6 +11,8 @@ Ce répertoire contient également le fichier de présentation de la méthodolog
 Parking.ipynb
 
 Le notebook 'Parking.ipynb' va directement récupérer les données et graphiques présentés, dans ce dépôt GITHUB.
+Il contient du code executable et doit donc être ouvert dans jupyter NotebooK pour pouvoir être executé (affichage des données et graphiques par parking, requêtes sur les bases compilées).
+
 
 Descriptif des différents répertoires: 
 - répertoire JSON : contient les DATA extraits du site  de Montpellier Métropole
