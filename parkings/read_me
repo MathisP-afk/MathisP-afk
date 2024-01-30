@@ -1,0 +1,32 @@
+
+Description de l'organisation du GITHUB Mathis PELEGRIN / Parkings
+
+ce dépôt regroupe l'ensemble des traitements réalisé pour le projet d'analyse de la fréquentation des parkings et sations de vélos
+
+Les programmes Pythons pour l'extraction des données à partir de l'API de Montpellier Métropole, le retraitement des données et les calculs statistiques réalisés
+sur ces DATA sont enregistrés directemnent sur le répertoire racine (parkings). Les traitements ont été réalisés en Python (sous Spyder).
+
+Ce répertoire contient également le fichier de présentation de la méthodologies, des résultats obtenus, de l'analyse et de la conclusion de l'étude au format Jupyter Notebook : 
+
+Parking.ipynb
+
+Le notebook 'Parking.ipynb' va directement récupérer les données et graphiques présentés, dans ce dépôt GITHUB.
+
+Descriptif des différents répertoires: 
+- répertoire JSON : contient les DATA extraits du site  de Montpellier Métropole
+- répertoire Data_frame : contient les données et graphiques réalisées à partir des DATA à l'aide de codes Python, il est subdivisé en :
+    - parking :
+          - heure
+          - jour
+          - mois
+          - compil
+
+    - velo :
+          - heure
+          - jour
+          - mois
+          - compil
+
+contenant les données traités par heure, jour, mois, avec à chaque fois un dataframe par parking ou station et plusieurs graphiques correspondant aux différents paramètres du Dataframe.
+
+Le sous-dossier 'compil' reprend les principales données compilées pour chaque parking ou station avec 1 seul fichier contenant l'ensemble des parkings et un autre l'ensemble des stations de velos.
